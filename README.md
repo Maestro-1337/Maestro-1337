@@ -1,4 +1,4 @@
-### Bonjour 🥖, I'm Fianso
+### Bonjour 🥖, I'm Fianso 😄
 
 <!--
 **Maestro-1337/Maestro-1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
