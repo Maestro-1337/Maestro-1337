@@ -1,16 +1,18 @@
 ### Bonjour 🥖, I'm Fianso :blush:
 
-### 😄
+## info.dart 😄
+```dart
 class Info {
   final String name;
   final int age;
   final String country;
 
-Info(
+  Info(
       name: "Fianso",
       age: 22,
       country: "🇲🇦")
 }
+```
 
 <!--
 **Maestro-1337/Maestro-1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
