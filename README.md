@@ -10,7 +10,7 @@ class Info {
   Info(
       name: "Fianso",
       age: 22,
-      country: "🇲🇦")
+      country: "Morocco 🇲🇦")
 }
 ```
 
